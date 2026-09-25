@@ -44,7 +44,9 @@ I also build the front end: websites, dashboards, client portals and a native iO
 
 | Project | What it is |
 |---|---|
+| 📞 [**ai-voice-sales-funnel**](https://github.com/yeisonmbotero/ai-voice-sales-funnel) | AI voice + SMS lead-qualification funnel: 10 follow-up stages, 130–200-node after-call workflows, LLM classifiers grounded on telephony end-reasons, Google Calendar booking bridge. Case study with 12 production incidents. *n8n · Atlas voice AI · Twilio · Zoho CRM · Supabase · DeepSeek* |
 | 🏢 [**multi-branch-call-orchestrator**](https://github.com/yeisonmbotero/multi-branch-call-orchestrator) | Multi-tenant outbound calling for a 28-branch lender: Latin-square cohort scheduler, `FOR UPDATE SKIP LOCKED` dispatch, self-service CSV ingestion, hybrid deterministic + RAG outcome pipeline. *n8n · Postgres · pgvector · Next.js* |
+| 📨 [**cold-email-infrastructure**](https://github.com/yeisonmbotero/cold-email-infrastructure) | Cold email stack I built to replace a vendor: domains, DNS (SPF / DKIM / DMARC), inbox provisioning, warmup and runbooks. $200 → ~$88 per month. *Cloudflare · Google Workspace · Smartlead · Clay* |
 | 🔌 [**ghl-mcp-server**](https://github.com/yeisonmbotero/ghl-mcp-server) | MCP server for GoHighLevel, backed by a reverse-engineered map of GHL's internal API (259 endpoints from 4,600+ captured calls). *Python · FastMCP* |
 | 🏭 [**webfactory**](https://github.com/yeisonmbotero/webfactory) | A website factory: a business URL goes in, and out comes a deployed, audited landing page. The auditor blocks the deploy if the page fails. *Python · Playwright* |
 | 🛡️ [**claude-code-security-audit**](https://github.com/yeisonmbotero/claude-code-security-audit) | Security layer for AI coding agents: HMAC-signed drift detection, hook scanner, real-time command guard, skill quarantine. *Python stdlib* |
