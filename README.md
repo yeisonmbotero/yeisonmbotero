@@ -100,14 +100,8 @@ flowchart LR
 ### 📊 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yeisonmbotero&show_icons=true&hide_border=true&bg_color=0b0e16&title_color=3DE1FF&icon_color=9B6BFF&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeisonmbotero&layout=compact&hide_border=true&bg_color=0b0e16&title_color=3DE1FF&text_color=c9d1d9" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=yeisonmbotero&theme=tokyonight&hide_border=true&background=0b0e16&ring=3DE1FF&fire=9B6BFF&currStreakLabel=3DE1FF" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeisonmbotero&bg_color=0b0e16&color=c9d1d9&line=3DE1FF&point=9B6BFF&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
 
 ---
 
